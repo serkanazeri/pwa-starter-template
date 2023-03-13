@@ -12,16 +12,16 @@ export default function Home() {
     <>
       <Head>
         <title>PWA</title>
-        <meta name="description" content="PWA starter template" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
-        <meta property="og:title" content=""/>
-        <meta property="og:description" content="" />
-        <meta property="og:image:url" content="" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="" />
-        <meta name="twitter:description" content="" />
-        <meta name="twitter:image" content="" />
+        <meta name='description' content='PWA starter template' />
+        <meta name='viewport' content='width=device-width, initial-scale=1' />
+        <link rel='icon' href='/favicon.ico' />
+        <meta property='og:title' content='' />
+        <meta property='og:description' content='' />
+        <meta property='og:image:url' content='' />
+        <meta name='twitter:card' content='summary_large_image' />
+        <meta name='twitter:title' content='' />
+        <meta name='twitter:description' content='' />
+        <meta name='twitter:image' content='' />
       </Head>
       <main className={styles.main + ' ' + roboto.className}>
         PWA starter template
